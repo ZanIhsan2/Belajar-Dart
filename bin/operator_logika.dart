@@ -7,7 +7,7 @@ void main() {
   print(canAhmadDrive);
 
   // Operator OR (||)
-  var canAhmadDrive2 = isAhmadHaveSIM || isAhmadHaveSTNK;
+  var canAhmadDrive2 = isAhmadHaveSIM | isAhmadHaveSTNK;
   print(canAhmadDrive2);
 
   // Operator NOT (!)
